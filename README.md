@@ -41,43 +41,9 @@ A real-time computer vision system that enables touchless interaction using hand
 
 ---
 
-## 📂 Project Structure
+https://github.com/user-attachments/assets/76c38cf3-3ce4-4392-bbb4-8ed173604b1b   
 
-```
-Smart-Hand-Tracking-Camera/
-│── gesture_camera_final1.py
-│── README.md
-│── requirements.txt
-│── Sketches/
-│── images/
-```
-
----
-
-## ⚙️ Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Smart-Hand-Tracking-Camera.git
-cd Smart-Hand-Tracking-Camera
-```
-
-2. Install dependencies:
-
-```bash
-pip install opencv-python mediapipe numpy
-```
-
----
-
-## ▶️ How to Run
-
-```bash
-python gesture_camera_final1.py
-```
-
----
+--- 
 
 ## 🎮 Controls
 
