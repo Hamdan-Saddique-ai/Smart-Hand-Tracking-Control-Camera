@@ -1,4 +1,5 @@
 # 🎥 Smart Hand Tracking & Control Camera
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2bc8bd58-b03c-4296-8dca-bb8ab32dec83" />
 
 A real-time computer vision system that enables touchless interaction using hand gestures. Built with OpenCV and MediaPipe, this project allows users to control different camera modes and visual effects using only their hands.
 
